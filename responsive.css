@@ -1,0 +1,145 @@
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+	.header{
+	background:white;
+	padding:20px 0;
+}
+
+.logo{
+	display:none;
+}
+
+	.head_right img{
+	display:none;
+}
+	.nav{
+		display:inline;
+}
+.nav ul{
+	list-style:none;
+}
+.nav ul li{
+	float:left;
+}
+.nav ul li a{
+	display:block;
+	text-decoration:none;
+	padding:10px 15px;
+	color:black;
+	font-size:15px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.btn{
+	background:gold;
+	border-radius:10px;
+	border:none;
+}
+.nav ul li a:hover{
+	border-bottom:2px solid gold;
+}
+.section{
+	height:1000px;
+}
+
+.sec_text{
+	width:400px;
+	float:left;
+	padding:20px;
+	overflow:hidden;
+}
+.img img{
+	width:500px;
+	height:1000px;
+	display:block;
+}
+.section_article{
+	width:50%;
+	float:left;
+	overflow:hidden;
+}
+.section2{
+	width:50%;
+	float:left;
+	overflow:hidden;
+}
+.div1{
+	overflow:hidden;
+}
+.div2{
+	overflow:hidden;
+}
+.section2_article{
+	width:48%;
+	float:left;
+	margin-right:2%;
+}
+.section3{
+	width:50%;
+	float:left;
+}
+
+.div3{
+	width:80%;
+	margin:0 auto;
+}
+.chart_part{
+	width:50%;
+	margin:0 auto;
+}
+.project_part h2{
+	text-align:center;
+}
+.div5_wrap{
+	overflow:hidden;
+}
+.div5{
+	width:50%;
+	float:left;
+	overflow:hidden;
+}
+.div6{
+	width:50%;
+	margin-top:4%;
+	padding-top:10px;
+	float:left;
+	background:gray;
+	color:white;
+	overflow:hidden;
+}
+
+
+
+
+
+
+
+
+
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
